@@ -9,7 +9,7 @@
 
 ターミナルで以下を実行
 ```
-cd soji_toban
+cd soji-toban
 ```
 
 ```
